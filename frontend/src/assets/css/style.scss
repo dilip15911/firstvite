@@ -1,0 +1,27 @@
+//global color variables
+$primary-color: #ff0000;
+$secondary-color: #00ff00;
+$secondary-color: #0000ff;
+$nav-color:#0000ff;
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+  font-family: 'Rubik', sans-serif;
+  color: $primary-color;
+}
+
+h1 {
+font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2em;
+}
+p {
+    font-size: 1.5em;
+}
