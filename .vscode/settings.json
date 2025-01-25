@@ -1,0 +1,6 @@
+{
+    "editor.scrollbar.scrollByPage": false,
+    "editor.smoothScrolling": false,
+    "editor.cursorSmoothCaretAnimation": "off",
+    "workbench.list.scrollByPage": false
+}
